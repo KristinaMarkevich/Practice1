@@ -1,4 +1,5 @@
-# Practice1
+# Practice
+
 ssh method
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/test1
 $ git config --global user.name "KristinaMarkevich"
